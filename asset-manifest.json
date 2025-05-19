@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fashionfeast.shop/static/css/main.97056cc5.css",
+    "main.js": "/fashionfeast.shop/static/js/main.e8d0edfe.js",
+    "index.html": "/fashionfeast.shop/index.html",
+    "main.97056cc5.css.map": "/fashionfeast.shop/static/css/main.97056cc5.css.map",
+    "main.e8d0edfe.js.map": "/fashionfeast.shop/static/js/main.e8d0edfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97056cc5.css",
+    "static/js/main.e8d0edfe.js"
+  ]
+}
